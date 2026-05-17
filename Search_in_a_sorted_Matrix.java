@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Arrays;
-public class Nill{
+public class Search_in_a_sorted_Matrix {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter rows :");
