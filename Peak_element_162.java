@@ -1,5 +1,4 @@
 
-
 import java.util.Scanner;
 import java.util.Arrays;
 public class Peak_element_162 { 
